@@ -15,7 +15,7 @@ Tenho experiência com Java, Python e banco de dados, e busco evoluir constantem
 - LinkedIn: www.linkedin.com/in/ribeiroferreiracaue
 - Email: caueribeiroferreira@gmail.com
 
-## 🚀 Stack Tecnológica
+## 🌱 Ecossistema Digital
 <p align="center">
   <img title="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img title="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />

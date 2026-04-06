@@ -28,6 +28,6 @@ Tenho experiência com Java, Python e banco de dados, e busco evoluir constantem
   <img title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 12px;">
   <i>Transformando conhecimento em soluções reais através da tecnologia.</i>
 </p>

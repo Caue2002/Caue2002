@@ -9,7 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvim
 Tenho experiência com Java, Python e banco de dados, e busco evoluir constantemente criando soluções práticas e bem estruturadas.
 ## 🚀 Stack Tecnológica
 
-## 📚 Em aprendizado
+## 📚 Atualmente Estudando
 
 - APIs REST  
 - Spring Boot  

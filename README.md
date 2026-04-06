@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Capa com códigos Java" width="80%">
+  <img src="banner.jpg" alt="Capa com códigos Java" width="100%">
 </p>
 
 ## 🚀 Stack Tecnológica
